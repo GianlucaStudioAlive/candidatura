@@ -5,7 +5,7 @@ const Footer = () => {
     <div className='container-fluid' >
       <div className="row">
         <div className="col text-center p-2" >
-           Designed for application to <Link href={'https://5adesign.it/'}>5adesign.it</Link>
+          Giovanni Luca Felli - 2023
         </div>
       </div>
     </div>
